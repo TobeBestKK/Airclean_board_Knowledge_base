@@ -1,7 +1,7 @@
 {
   "$schema": "https://context7.com/schema/context7.json",
-  "projectTitle": "Airclean Board Knowledge Base",
-  "description": "空气净化器板子开发资料知识库，覆盖 CMS79F72x MCU、SU-03T 语音模块、板级引脚、风扇功能、烧录流程和 NTC 温度表。",
+  "projectTitle": "Airclean_board_Knowledge_base",
+  "description": "空气净化器控制板知识库，覆盖 CMS79F72x MCU、SU-03T 语音模块、板级引脚、风扇功能、烧录流程和 NTC 温度表。",
   "folders": [],
   "excludeFolders": [
     ".codex_tmp",

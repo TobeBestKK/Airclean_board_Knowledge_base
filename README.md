@@ -1,6 +1,6 @@
-# Airclean_board
+# Airclean_board_Knowledge_base
 
-这是空气净化器控制板开发资料仓库，主要用于沉淀本次板子相关的芯片手册、语音模块资料、板级引脚分配、风扇功能规格、NTC 温度数据和 Context7 知识库。
+这是空气净化器控制板知识库仓库，主要用于沉淀本次板子相关的芯片手册、语音模块资料、板级引脚分配、风扇功能规格、NTC 温度数据和 Context7 知识库。
 
 本仓库目前不是一个可直接编译的固件工程，而是一个硬件开发资料库。开发固件前，建议先阅读 `Airclean_board_Context7_KB.md`，它已经把原始 PDF、Excel 和视觉复核结果整理成适合 AI / Context7 检索的知识库。
 
