@@ -1,7 +1,7 @@
 {
   "$schema": "https://context7.com/schema/context7.json",
   "projectTitle": "Airclean_board_Knowledge_base",
-  "description": "空气净化器控制板知识库，覆盖 CMS79F72x MCU、TM1628A 显示驱动、SU-03T 语音模块、板级引脚、风扇功能、烧录流程和 NTC 温度表。",
+  "description": "空气净化器控制板知识库，覆盖 CMS79F72x MCU、TM1628A 显示驱动、SU-03T 语音模块、板级引脚、触摸调试、风扇功能、烧录流程和 NTC 温度表。",
   "folders": [],
   "excludeFolders": [
     ".codex_tmp",
@@ -14,6 +14,7 @@
     "回答必须基于 Airclean_board_Context7_KB.md 和本地资料来源，不确定项必须说明。",
     "硬件引脚、寄存器名、文件名、命令和协议字节保持原文。",
     "TM1628A 显示驱动以 C2943005_数码管驱动_TM1628A_规格书_WJ300770.pdf 和空气净化器管脚图.xlsx 的交叉结论为准；本板字模不能直接套用标准 0x3F。",
+    "触摸调试以触摸调试手册.pdf、空气净化器管脚图.xlsx 和整机实测为准；噪声阈值和灵敏度阈值必须在实际电源、面板和整机负载状态下评估。",
     "不要把 RB3 当作 CMS79F72x 硬件 CCP/PWM，除非后续原理图或芯片资料证明。",
     "SU-03T UART 波特率以平台配置或生成固件包为准；9600 只是当前资料截图示例。"
   ]
